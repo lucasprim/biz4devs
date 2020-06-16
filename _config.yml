@@ -1,0 +1,82 @@
+---
+name: Biz4Devs
+title: Biz4Devs
+email: biz4devs@gmail.com
+description: >-
+  Artigos sobre gestão para desenvolvedores.
+baseurl: ""
+url: "https://www.biz4devs.com"
+twitter_username: biz4devs
+github_username: lucasprim
+
+# Build settings
+# theme: minima
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+
+authors:
+  prim:
+    name: Lucas Prim
+    display_name: Lucas Prim
+    gravatar: d7556befd6b2a40d5618be1c0340e54a
+    email: biz4devs@gmail.com
+    web: https://www.biz4devs.com
+    twitter: https://www.twitter.com/lucasprim
+    description: >-
+      Autor do Biz4Devs.
+      Desenvolvedor de software de coração, gestor a mais de uma década.
+
+# Plugin settings
+# markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/categoria/:name/'
+
+paginate: 6
+paginate_path: /page:num/
+
+# Theme Settings
+
+lazyimages: "disabled"
+jumbotron: "disabled"
+disqus: biz4devs
+mailchimp-list:
+include: ["_pages"]
+permalink: /:title/
+logo: 'assets/images/b4d-expanded-rectangle-white.png'
+favicon: 'assets/images/favicon.ico'
+google_analytics: 'UA-169343340-1'
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
