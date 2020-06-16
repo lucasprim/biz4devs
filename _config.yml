@@ -54,7 +54,8 @@ paginate_path: /page:num/
 lazyimages: "disabled"
 jumbotron: "disabled"
 disqus: biz4devs
-mailchimp-list:
+mailchimp-list: "https://biz4devs.us10.list-manage.com\
+  /subscribe/post?u=c370f76f19b193b3931203b32&amp;id=662cae13b5"
 include: ["_pages"]
 permalink: /:title/
 logo: 'assets/images/b4d-expanded-rectangle-white.png'
