@@ -27,13 +27,13 @@ Comemorei quando encontrei essa imagem: puxar a carroça na frente de todo mundo
 
 No fim, minha conclusão foi inevitável: fui um péssimo chefe (ou seria líder? Ou manager?). Daí a energia de ter lido tanto e a frustração quando terminei mais confuso do que cheguei.
 
-Resolvi dar um basta nessa confusão. Era passada a hora de entender o que é ser um _chefe rockstar_, daqueles que marcam a sua vida. Ou melhor, daqueles que pelo menos não atrapalham a sua vida.
+Resolvi dar um basta nessa confusão. Passou da hora de entender o que é ser um _chefe rockstar_, daqueles que marcam a sua vida. Ou melhor, daqueles que pelo menos não atrapalham.
 
 ## O Manifesto do chefe moderno
 
 Olá, eu sou o Lucas e sou o seu novo chefe.
 
-Numa relação em que para eu realizar o meu trabalho eu preciso que você realize o seu, a atitude mais inteligente que eu posso ter é me certificar de que você tenha tudo o que precisa para fazer um bom trabalho.
+Numa relação em que para eu realizar o meu trabalho preciso que você realize o seu, a atitude mais inteligente que posso ter é me certificar de que você tenha tudo o que precisa para fazer um bom trabalho.
 
 O que isso significa na prática? Bem, esses são os meus princípios:
 
@@ -41,21 +41,21 @@ O que isso significa na prática? Bem, esses são os meus princípios:
 
 1. É meu papel garantir que suas necessidades básicas sejam satisfeitas. Um salário justo num ambiente de trabalho agradável fazem parte dessas necessidades.
 2. Vou fazer tudo o que está ao meu alcance para que você tenha segurança física e psicológica. No meu time, _bullying_, assédio ou discriminação não serão toleradas.
-3. Falando em time, vou constantemente criar atividades e oportunidades para que você possa se enturmar e confiar nos seus colegas. No meu time você poderá ser vulnerável sem ter medo de alguém capitalizar em cima das suas fraquezas.
-4. Estarei observando de perto as suas conquistas e comemorando-as com entusiasmo junto a você.
-5. Eu vou te puxar e desafiar. Não para satisfazer o meu ego mas porque sei que o seu bem-estar também depende do quanto você consegue exercer todo o seu potencial.
+3. Falando em time, vou constantemente criar atividades e oportunidades para que você possa se enturmar e confiar nos seus colegas. No meu time você poderá ser vulnerável sem ter medo de alguém se aproveitar das suas fraquezas.
+4. Vou observar de perto as suas conquistas e comemorá-las com entusiasmo junto a você.
+5. Vou te puxar e desafiar. Não para satisfazer o meu ego mas porque sei que o seu bem-estar também depende do quanto você consegue exercer todo o seu potencial.
 
 ### Eu sou responsável por garantir que você consiga fazer o seu trabalho com excelência
 
 1. É meu papel dar clareza sobre o que você precisa fazer.
 2. É também meu papel deixar claras todas as minhas expectativas sobre o seu trabalho.
 3. Vou dar os primeiros passos junto com você, e conforme você ganhar segurança, vou te dar cada vez mais autonomia.
-4. Cada erro que você cometer será uma oportunidade para eu melhorar a minha forma de ensinar e para você e para você aprender algo novo.
-5. Estarei sempre te ouvindo e vou fazer meu maior esforço para entender o seu ponto de vista.
+4. Cada erro que você cometer será uma oportunidade para eu melhorar a minha forma de ensinar e para você aprender algo novo.
+5. Sempre vou te ouvir e me esforçar para entender o seu ponto de vista.
 6. Suas opiniões serão levadas em consideração de forma justa, mesmo que não sejam aplicadas.
 7. Conte comigo para encontrar referências para dar os próximos passos na sua jornada.
 
-### Estou aqui para te suportar
+### Estou aqui para te dar apoio
 
 1. Vou procurar mais motivos para te elogiar do que para te criticar.
 2. Entenderei os teus dias ruins e celebrarei os bons.
@@ -66,10 +66,11 @@ O que isso significa na prática? Bem, esses são os meus princípios:
 Não esqueça que essa é uma relação de duas vias. Eu vou cuidar de você se você também fizer a sua parte.
 Portanto, eu preciso que você:
 
-1. Seja honesto, comigo, com você mesmo e com o seu time
-2. Esteja sempre aberto a novas ideias
-3. Melhore sempre, como humano e como profissional
-4. Seja um parceiro de equipe com quem se pode contar,  principalmente nas piores horas
-5. Trate os outros como gostaria de ser tratado
+1. Seja honesto comigo, com você mesmo e com o seu time.
+2. Esteja sempre aberto a novas ideias.
+3. Melhore sempre como humano e como profissional.
+4. Seja um parceiro de equipe com quem se pode contar,  principalmente nas piores horas.
+5. Trate os outros como gostaria de ser tratado.
 
-Vou te cobrar cada uma das suas responsabilidades, e exijo que você também cobre as minhas. Espero que nossa relação nos deixe sempre melhores do que somos hoje.
+Vou cobrar cada uma das suas responsabilidades, e exijo que você também cobre as minhas.
+Espero que nossa relação nos deixe sempre melhores do que somos hoje.
