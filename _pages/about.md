@@ -29,19 +29,19 @@ Refatorar para mim é uma das atividades mais prazeirosas que um programador pod
 ### Diferentes tipos de conteúdo
 Quero escrever aqui sobre diferentes tópicos que vão passar pela cabeça de qualquer desenvolvedor empreendedor. A melhor categorização que eu consegui achar até agora para esses tópicos é a seguinte:
 
-1. **/GETTING STARTED.md - Conceitos essenciais**\
+1. **/GETTING STARTED.md - Conceitos essenciais** -
 Um espaço para falar sobre *business essentials*, conceitos essenciais de negócios.
-2. **/docs - Knowledge Base**\
+2. **/docs - Knowledge Base** -
 Análises de conceitos de gestão e liderança trazidos em livros, artigos, etc.
-3. **/lib (Ferramentas e Boas Práticas)**\
+3. **/lib (Ferramentas e Boas Práticas)** -
 Boas práticas de empreendedores e ferramentas que auxiliam na gestão de um negócio.
-4. **/examples (Histórias e exemplos de empreendedores e empresas)**\
+4. **/examples (Histórias e exemplos de empreendedores e empresas)** -
 Histórias para inspirar e bons exemplos de o que fazer em situações que todo empreendedor se depara.
-5. **/faq - Perguntas Frequentes**\
+5. **/faq - Perguntas Frequentes** -
 Aqui eu respondo perguntas de devs empreendedores.
-6. **/dev/null - Opiniões**\
+6. **/dev/null - Opiniões** -
 Não sou isento de opiniões, pelo contrário, então nesse espaço eu vou dar as minhas. O nome é sugestivo, `/dev/null` porque fica a sua escolha concordar ou simplesmente ignorar.
-7. **/metadata - Conceitos do biz4devs**\
+7. **/metadata - Conceitos do biz4devs** - 
 Artigos que explicam conceitos essenciais do próprio blog.
 
 ### Formato
