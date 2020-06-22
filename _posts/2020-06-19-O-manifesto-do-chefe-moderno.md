@@ -37,38 +37,43 @@ Numa relação em que para eu realizar o meu trabalho preciso que você realize 
 
 O que isso significa na prática? Bem, esses são os meus princípios:
 
-### Eu sou responsável pelo seu bem-estar
+### O seu bem-estar
 
-1. É meu papel garantir que suas necessidades básicas sejam satisfeitas. Um salário justo num ambiente de trabalho agradável fazem parte dessas necessidades.
-2. Vou fazer tudo o que está ao meu alcance para que você tenha segurança física e psicológica. No meu time, _bullying_, assédio ou discriminação não são tolerados.
-3. Falando em time, vou constantemente criar atividades e oportunidades para que você possa se enturmar e confiar nos seus colegas. No meu time você poderá ser vulnerável sem ter medo de alguém se aproveitar das suas fraquezas.
-4. Vou observar de perto as suas conquistas e comemorá-las com entusiasmo junto a você.
-5. Vou te puxar e desafiar. Não para satisfazer o meu ego mas porque sei que o seu bem-estar também depende do quanto você consegue exercer todo o seu potencial.
+É o meu papel:
 
-### Eu sou responsável por garantir que você consiga fazer o seu trabalho com excelência
+1. Garantir que suas necessidades básicas sejam satisfeitas, como uma remuneração justa e um ambiente de trabalho agradável.
+2. Conduzir nosso time para que você e seus colegas possam se sentir seguros, tanto fisicamente quanto psicologicamente.
+3. Buscar sempre atividades e oportunidades para que você possa se enturmar e criar laços de confiança com seus colegas. Você poderá ser vulnerável sem ter medo de alguém se aproveitar das suas fraquezas.
+4. Reconhecer suas conquistas e comemorá-las com entusiasmo.
+5. Te puxar e desafiar. Não para satisfazer meu ego mas porque sei que o seu bem-estar depende do quanto você está próximo do seu potencial.
 
-1. É meu papel dar clareza sobre o que você precisa fazer.
-2. É também meu papel deixar claras todas as minhas expectativas sobre o seu trabalho.
-3. Vou dar os primeiros passos junto com você, e conforme você ganhar segurança, vou te dar cada vez mais autonomia.
-4. Cada erro que você cometer será uma oportunidade para eu melhorar a minha forma de ensinar e para você aprender algo novo.
-5. Sempre vou te ouvir e me esforçar para entender o seu ponto de vista.
-6. Suas opiniões serão levadas em consideração de forma justa, mesmo que não sejam aplicadas.
-7. Conte comigo para encontrar referências para dar os próximos passos na sua jornada.
+### O seu trabalho
+
+É o meu papel:
+
+1. Explicar o que você precisa fazer e minhas expectativas.
+2. Dar os primeiros passos junto a você. Dar autonomia conforme você dominar seus papéis.
+3. Tratar cada erro cometido como um aprendizado para você e para mim.
+4. Te dar espaço criativo, te ouvir e me esforçar para entender o seu ponto de vista.
 
 ### Estou aqui para te dar apoio
 
-1. Vou procurar mais motivos para te elogiar do que para te criticar.
-2. Entenderei os teus dias ruins e celebrarei os bons.
-3. Vou deixar claro quando eu não gostar de algo, e vou te dar a oportunidade de corrigir.
+É o meu papel:
 
-### Você também teu o seu papel
+1. Procurar mais motivos para elogiar do que para criticar.
+2. Entender os dias ruins e celebrar os bons.
+3. Deixar claro quando eu não gostar de algo e te ajudar a corrigir.
+4. Te ajudar a encontrar referências para melhorar o seu trabalho hoje e buscar o dos seus sonhos.
 
-Não esqueça que essa é uma relação de duas vias. Eu vou cuidar de você se você também fizer a sua parte. Como membro do meu time, vou contar que você:
+### O seu papel
 
-1. **Cuide da sua saúde física e mental.** Passar tempo com a família, com os amigos e ter uma vida enriquecedora fora do escritório é essencial para você e para mim.
-2. **Seja um bom colega.** Vou precisar de você nos melhores e piores momentos. Preciso poder confiar em você. Seja honesto, cuide dos seus colegas e trate eles como você gostaria de ser tratado. _Bullying_ não será tolerado.
-3. **Seja transparente. Pergunte e questione.** Receber qualquer pergunta é um motivo de alegria para mim, não interessa o quanto você acha que ela possa ser irrelevante. Se você não concordar comigo ou com um colega, é seu dever discordar e expor os seus argumentos.
-4. **Cumpra suas promessas e assuma a responsabilidade.** Eu estarei contando com o seu comprometimento em entregar aquilo que você prometer. Caso algo dê errado, não tem problema, desde que você não fuja das suas responsabilidades.
-5. **Esteja em constante evolução e busque desafios.** Nem tudo o que você precisa aprender para alcançar todo seu potencial está na empresa. Aprenda a ser um ser humano melhor e um profissional melhor dentro e fora do trabalho. Busque ajuda nos livros, colegas, psicólogos, em outras empresas, onde for.
+Não esqueça que essa é uma relação de mão dupla. Eu vou cuidar de você desde que você faça a sua parte.
+Como membro do meu time, vou contar que você:
 
-Vou cobrar de você as suas responsabilidades, e faço questão que você também cobre as minhas.
+1. **Cuide da sua saúde física e mental.** Passe tempo com a família, com os amigos e tenha uma vida estimulante fora do escritório.
+2. **Seja um bom colega.** Nosso time vai precisar de você nos melhores e piores momentos, então seja alguém com quem se pode contar. Seja honesto, cuide dos seus colegas e trate eles como você gostaria de ser tratado. _Bullying_ não será tolerado.
+3. **Seja transparente, pergunte e questione.** Faça perguntas, de qualquer tipo. Se você discordar de mim ou de um colega, é seu dever nos questionar e expor os seus argumentos.
+4. **Cumpra suas promessas e assuma a responsabilidade.** Nosso time estará contando com o seu comprometimento em entregar o que você prometer. Caso algo dê errado, não tem problema, só não fuja das suas responsabilidades.
+5. **Esteja em constante evolução e busque desafios.** Nem tudo o que você precisa aprender para alcançar seu potencial está na empresa. Aprenda a ser uma pessoa e um profissional melhor. Busque ajuda para crescer nos livros, colegas, psicólogos, onde for.
+
+Vou cobrar de você as suas responsabilidades, e faço questão que você também cobre as minhas. Se for assim, nossa relação nos tornará cada vez melhores.
