@@ -4,8 +4,8 @@ title: Biz4Devs
 email: biz4devs@gmail.com
 description: >-
   Artigos sobre gestão para desenvolvedores.
-baseurl: ""
-url: "https://www.biz4devs.com"
+url: https://www.biz4devs.com
+baseurl:
 twitter_username: biz4devs
 github_username: lucasprim
 

@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Desenvolvendo Apps vs Desenvolvendo Empresas
+title: O processador da empresa é feito de pessoas
 date: 2020-06-13 11:24:00 -0300
 author: prim
-categories: "metadata"
-permalink: "desenvolvendo-apps-vs-desenvolvendo-empresas"
+categories: metadata
+permalink: desenvolvendo-apps-vs-desenvolvendo-empresas
 featured: true
 hidden: false
 comments: true
-description: Desenvolver apps e empresas tem muito em comum. Vamos explorar as diferenças essenciais
+description: Desenvolver apps e empresas tem muito em comum. Vamos explorar as diferenças essenciais que nascem do fato de não termos um processador, mas pessoas.
 ---
 
 O dev que quer virar empreendedor ou gestor sofre. Para alguém acostumado a ler em linguagem formal (programação), o mundo da gestão traz todo um novo sentido para o que é um  mal definido. A energia desperdiçada é surreal se comparada  com qualquer documentação de software, por mais vagabunda que seja. Sempre que termino um livro de gestão com 400 páginas, tenho certeza de que poderia ter lido só 5 sem deixar nada a dever. Isso porque a linguagem humana é muito pior que a formal pra explicar qualquer coisa: no mundo de dev, `1 + 1 = 2` (na pior hipótese 10, para os escovadores de bits), no mundo de gestor, `1 + 1 = maionese` pode fazer sentido dependendo do contexto.
@@ -36,8 +36,8 @@ No lugar de processadores, pessoas. No lugar de dispositivos e processos, outras
 > Se você falar a uma pessoa que `nosso objetivo é satisfazer o cliente`, o resultado do processamento dessa frase é totalmente diferente dependendo da pessoa, da hora do dia, do alinhamento de Vênus e Júpiter, e por aí vai. E não vai ter tela azul para te dizer que algo deu errado.
 >
 > Importante dizer que além de não determinística, o armazenamento de informações do cérebro humano não é _ACID-compliant_.
-> Entre os motivos, a _durability_ e a _consistency_ costumam ser problemas: o que você falou para 10 pessoas pode gerar 10 versões diferentes armazenadas para o mesmo evento (lá se vai a _consistency_)
-> Um mês depois eu aposto que, se você não repetiu, só 30% das pessoas vão lembrar o que você disse (durability danada). Ao menos 5% vão ter corrompido os dados em outra instrução que, por azar do destino, ainda faz sentido quando interpretada.
+> Entre os motivos, a _durability_ e a _consistency_ costumam ser problemas: o que você falou para 10 pessoas pode gerar 10 versões diferentes armazenadas para o mesmo evento (lá se vai a _consistency_).
+> Um mês depois eu aposto que, se você não repetiu, só 30% das pessoas vão lembrar o que você disse (_durability_ danada). Ao menos 5% vão ter corrompido os dados em outra instrução que, por azar do destino, ainda faz sentido quando interpretada.
 
 Você como dev tem desafios comuns com os de um gestor, só que os _building blocks_ que você usa para programar tem características bem diferentes do que os que você vai usar como gestor. Assim como você tem que conhecer as características da linguagem e do sistema sobre os quais você vai construir seu software, você precisa conhecer as características e linguagens humanas que você vai usar para  construir o seu time.
 
