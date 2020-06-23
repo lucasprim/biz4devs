@@ -23,11 +23,11 @@ Encontrei recentemente uma sentença que prometia salvação para os chefes da n
 Fonte: [Impossível de saber](https://www.google.com/search?q=boss%20vs%20leader&tbm=isch&tbs=rimg%3ACZwULMx27fhVImB7buPiKzYybXDYk4c7t3GtoubcwCR-OKkpoznjzNMq3fjCSDeIJNnPmoLpxuVipxyfLHWCeWK4qNECbja4EdEU8CyfZsFLwM-ksaac_1Vjt5dwYTOAI4fbAWEAIGr5-4oQqEgl7buPiKzYybRHaPatmhJ6L0CoSCXDYk4c7t3GtEbloY-Bu2aInKhIJoubcwCR-OKkR8a9ViiVr4x0qEgkpoznjzNMq3RHbL3Jd2VhJPyoSCfjCSDeIJNnPEX8jrXze0ddJKhIJmoLpxuVipxwRv4S9JMSPe_1IqEgmfLHWCeWK4qBEZEIHl2t89xSoSCdECbja4EdEUEWvaQwcHGHqHKhIJ8CyfZsFLwM8Re775rGtrwAUqEgmksaac_1Vjt5REFImgwwkeX0ioSCdwYTOAI4fbAEXsEwh7hnuh5KhIJWEAIGr5-4oQRmDD2NxvqHq5hpGdPRnQGn8Q&hl=en&ved=0CAIQrnZqFwoTCOiyraDDjuoCFQAAAAAdAAAAABAW&biw=1425&bih=798#imgrc=vt1VDhCjhkp8OM)
 </small></small>
 
-Comemorei quando encontrei essa imagem: puxar a carroça na frente de todo mundo. Isso seria fácil. Fui com sede ao pote e trombei com conceitos que até fazem sentido - como “Radical Candor”, “DDO”, “Five Dysfunctions of a Team” - mas ao invés de desatar nós, acabaram criando novos tipos. Quando li o [artigo do Mark Suster](https://bothsidesofthetable.com/the-one-thing-that-great-leaders-understand-ba479e48bd9e) que diferencia um “manager” de um “leader”, refleti que talvez minha confusão fosse semântica.
+Comemorei quando encontrei essa imagem: puxar a carroça na frente de todo mundo. Isso seria fácil. Fui com sede ao pote e trombei com conceitos que até fazem sentido - como “Radical Candor”, “DDO”, “Five Dysfunctions of a Team” - mas ao invés de desatar os nós, acabei criando novos tipos deles. Quando li o [artigo do Mark Suster](https://bothsidesofthetable.com/the-one-thing-that-great-leaders-understand-ba479e48bd9e) que diferencia um “manager” de um “leader”, refleti que talvez minha confusão fosse semântica.
 
 No fim, minha única conclusão inevitável foi a de que, independente do conceito, eu fui (ou tenho sido) um péssimo chefe (ou seria líder? Ou _manager_?). Daí a sede da busca pelo conceito perfeito e a frustração de quando terminei mais confuso do que cheguei.
 
-Resolvi dar um basta. Passou da hora de entender o que é ser um _chefe rockstar_, daqueles que marcam a sua vida. Ou melhor, daqueles que pelo menos não atrapalham. O que eu trago aqui é um compilado de tudo o que aprendi lendo, lendo e refletindo sobre o papel de um bom chefe nos dias de hoje.
+Resolvi dar um basta. Passou da hora de entender o que é ser um _chefe rockstar_, daqueles que marcam a sua vida. Ou melhor, daqueles que pelo menos não atrapalham. O que eu trago aqui é um compilado de tudo o que aprendi pesquisando, conversando a respeito e refletindo sobre o papel de um bom chefe nos dias de hoje.
 
 ## O Manifesto do chefe moderno
 
@@ -77,3 +77,5 @@ Como membro do meu time, vou contar que você:
 5. **Esteja em constante evolução e busque desafios.** Nem tudo o que você precisa aprender para alcançar seu potencial está na empresa. Aprenda a ser uma pessoa e um profissional melhor. Busque ajuda para crescer nos livros, colegas, psicólogos, onde for.
 
 Vou cobrar de você as suas responsabilidades, e faço questão que você também cobre as minhas. Se for assim, nossa relação nos tornará cada vez melhores.
+
+<small><small>Dedicado ao amigo Carlos Souza, o chefe mais elogiado pelos funcionários que eu já conheci. Obrigado pela inspiração!</small></small>
