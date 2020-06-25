@@ -69,7 +69,9 @@ Existe um acrônimo em Gestão de Pessoas chamado “CHA”, _conhecimentos, hab
 
 > A diferença entre conhecimento e habilidade
 > ---------
-> Eu conheço os conceitos de funcionamento de uma B-Tree num banco de dados. Eu nunca implementei uma B-Tree num banco de dados. Essa é a diferença entre ter conhecimento e habilidade.
+> Eu conheço os conceitos de funcionamento de uma B-Tree num banco de dados, mas nunca implementei uma B-Tree num banco de dados. Essa é a diferença entre conhecimento e habilidade.
+>
+> Eu sei que eu devo tratar as pessoas bem, no entanto eu sou o Linus Torvald. Essa é a diferença entre conhecimento e atitude.
 
 Existem pelo menos dois tipos de habilidade que uma pessoa precisa ter para conseguir cumprir seu papel em um time: as pessoais e as funcionais.
 
@@ -88,9 +90,9 @@ As habilidades pessoais influenciam diretamente nas funcionais. Arrisco dizer qu
 
 #### Conhecimento
 
-O conhecimento alavanca as habilidades. Conhecer bem o seu banco de dados e suas capacidades melhora sua habilidade de fazer o _design_ da sua aplicação. O conhecimento vira habilidade com a prática.
+O conhecimento alavanca as habilidades. Conhecer bem o seu banco de dados e suas capacidades melhora sua habilidade de fazer o _design_ da sua aplicação. O conhecimento vira habilidade ou atitude com a prática.
 
-Existe um modelo de aprendizagem chamado 70-20-10, que diz que 10% do aprendizado vem de cursos, livros, etc, 20% vem de aprendizado com outras pessoas e 70% através das experiências próprias. Na minha opinião, isso é só outra forma de dizer que o conhecimento vira habilidade com a prática.
+Existe um modelo de aprendizagem chamado 70-20-10, que diz que 10% do aprendizado vem de cursos, livros, etc, 20% vem de aprendizado com outras pessoas e 70% através das experiências próprias. Na minha opinião, isso é só outra forma de dizer que o conhecimento vira habilidade ou atitude.
 
 #### Atitudes e Comportamento
 
