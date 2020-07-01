@@ -14,8 +14,6 @@ image_credits: >-
   <span>Photo by <a href="https://unsplash.com/@yancymin?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Yancy Min</a> on <a href="https://unsplash.com/s/photos/code?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 ---
 
-# Como fazer uma empresa crescer? Refatorando, claro!
-
 Ela queria ser livre. Não aguentava mais trabalhar das nove  as cinco. Pediu as contas e foi em busca da tão cobiçada profissão de *nômade digital freelancer™️*. O que ela sempre sonhou estava prestes a virar realidade: viver sem residência fixa e sem horário, como uma verdadeira cidadã do mundo.
 
 Essa história muitas vezes acaba tão decepcionante quanto sedutora. Isso porque um *freelancer* é a menor manifestação de um negócio. Sendo um negócio, o trabalho vai muito além de *codar*. A *freela* tem que fazer tudo: Vender, negociar, programar, dar suporte, pagar impostos, etc. É um pequeno negócio de uma pessoa só.
