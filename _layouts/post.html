@@ -44,6 +44,11 @@ post_class: post-template
         {% else %}
           <img class="featured-image img-fluid" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
         {% endif %}
+        {% if page.image_credits %}
+          <div class="image-credits">
+            {{ page.image_credits }}
+          </div>
+        {% endif %}
       {% endif %}
       <!-- End Featured Image -->
 
