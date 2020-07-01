@@ -9,6 +9,9 @@ featured: false
 hidden: false
 comments: true
 description: Desenvolver apps e empresas tem muito em comum. Vamos explorar as diferenças essenciais que nascem do fato de não termos um processador, mas pessoas.
+image: assets/images/covers/people-meeting.jpg
+image_credits: ->
+ <span>Photo by <a href="https://unsplash.com/@brookecagle?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Brooke Cagle</a> on <a href="https://unsplash.com/s/photos/people?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 ---
 
 O dev que quer virar empreendedor ou gestor sofre. Para alguém acostumado a ler em linguagem formal (programação), o mundo da gestão traz todo um novo sentido para o que é um  mal definido. A energia desperdiçada é surreal se comparada  com qualquer documentação de software, por mais vagabunda que seja. Sempre que termino um livro de gestão com 400 páginas, tenho certeza de que poderia ter lido só 5 sem deixar nada a dever. Isso porque a linguagem humana é muito pior que a formal pra explicar qualquer coisa: no mundo de dev, `1 + 1 = 2` (na pior hipótese 10, para os escovadores de bits), no mundo de gestor, `1 + 1 = maionese` pode fazer sentido dependendo do contexto.

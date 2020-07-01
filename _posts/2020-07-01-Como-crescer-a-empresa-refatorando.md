@@ -9,6 +9,9 @@ featured: false
 hidden: false
 comments: true
 description: De uma freelancer até uma empresa sofisticada com diversas áreas. Qual método você pode utilizar para fazer a empresa crescer mantendo a qualidade da entrega para o cliente? Refatoração.
+image: assets/images/covers/refactor.jpg
+image_credits: >-
+  <span>Photo by <a href="https://unsplash.com/@yancymin?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Yancy Min</a> on <a href="https://unsplash.com/s/photos/code?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 ---
 
 # Como fazer uma empresa crescer? Refatorando, claro!

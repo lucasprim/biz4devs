@@ -6,9 +6,12 @@ author: prim
 categories: docs
 permalink: o-manifesto-do-chefe-moderno
 featured: true
+image: assets/images/covers/coach.jpg
 hidden: false
 comments: true
 description: Nossas referências culturais de chefes são terríveis. A literatura não ajuda e a vida real também não. O que é ser um bom chefe nos dias de hoje?
+image_credits: >-
+  <span>Photo by <a href="https://unsplash.com/@neonbrand?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">NeONBRAND</a> on <a href="https://unsplash.com/s/photos/coach?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 ---
 
 Existe algum motivo pelo qual meu café não está aqui? Ela [a assistente] morreu ou algo parecido? Miranda (O diabo veste Prada) é um exemplo de chefe babaca. O lobo de Wall Street - que queria que seus funcionários resolvessem todos seus problemas se tornando ricos - poderia até ser um exemplo de anfitrião mas definitivamente não de chefe. Além dos dois existem dezenas. A verdade é que as referências culturais de chefe são as piores possíveis.

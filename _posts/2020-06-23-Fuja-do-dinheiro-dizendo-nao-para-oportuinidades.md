@@ -9,6 +9,9 @@ featured: true
 hidden: false
 comments: true
 description: Na vida de uma startup, muitas oportunidades são lobos em pele de cordeiro e vão te custar a alma da sua empresa. Para chegar longe é preciso saber dizer não para certas oportunidades.
+image: assets/images/covers/do-not-enter.jpg
+image_credits: >-
+  <span>Photo by <a href="https://unsplash.com/@kylejglenn?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Kyle Glenn</a> on <a href="https://unsplash.com/s/photos/deny?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 ---
 
 *Eu sei que você vai brigar comigo mas olha a oportunidade que me apareceu*. Essa frase e suas variantes são uma constante nas minhas reuniões de mentoria. Ouço muito falar de foco, porém vejo que ninguém pisca na hora de jogar o foco no lixo em troca de um alívio para a realidade brutal que é conduzir um negócio ao sucesso.
