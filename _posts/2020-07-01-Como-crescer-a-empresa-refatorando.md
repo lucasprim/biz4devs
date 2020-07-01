@@ -5,7 +5,7 @@ date: 2020-07-01 18:17:00 -0300
 author: prim
 categories: getting-started
 permalink: como-fazer-uma-empresa-crescer-refatorando
-featured: true
+featured: false
 hidden: false
 comments: true
 description: De uma freelancer até uma empresa sofisticada com diversas áreas. Qual método você pode utilizar para fazer a empresa crescer mantendo a qualidade da entrega para o cliente? Refatoração.

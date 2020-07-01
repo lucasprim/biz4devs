@@ -5,7 +5,7 @@ date: 2020-06-13 11:24:00 -0300
 author: prim
 categories: metadata
 permalink: desenvolvendo-apps-vs-desenvolvendo-empresas
-featured: true
+featured: false
 hidden: false
 comments: true
 description: Desenvolver apps e empresas tem muito em comum. Vamos explorar as diferenças essenciais que nascem do fato de não termos um processador, mas pessoas.
