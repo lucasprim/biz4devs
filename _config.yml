@@ -51,8 +51,8 @@ paginate_path: /page:num/
 
 # Theme Settings
 
-lazyimages: "enabled"
-jumbotron: "disabled"
+lazyimages: enabled
+jumbotron: enabled
 disqus: biz4devs
 mailchimp-list: "https://biz4devs.us10.list-manage.com\
   /subscribe/post?u=c370f76f19b193b3931203b32&amp;id=662cae13b5"
