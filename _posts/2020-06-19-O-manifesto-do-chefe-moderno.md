@@ -7,7 +7,7 @@ categories: docs
 permalink: o-manifesto-do-chefe-moderno
 featured: true
 image: assets/images/covers/coach.jpg
-hidden: false
+hidden: true
 comments: true
 description: Nossas referências culturais de chefes são terríveis. A literatura não ajuda e a vida real também não. O que é ser um bom chefe nos dias de hoje?
 image_credits: >-

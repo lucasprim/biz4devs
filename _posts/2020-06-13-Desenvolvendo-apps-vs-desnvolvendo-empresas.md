@@ -60,7 +60,7 @@ Para ter o melhor das pessoas do seu time, é preciso cuidar de dois aspectos qu
 
 Motivação é o _internal state_ das pessoas. Sem ela, nada vai acontecer. Só que você não consegue motivar alguém diretamente, só criar as condições para que a pessoa possa estar motivada. É como se `motivar()` fosse um método privado de um objeto, e a única maneira de fazer o sistema chegar nesse método é através de uma interface única e mal documentada para cada instância.
 
-Para nossa sorte, nós - seres humanos - somos motivados por elementos comuns. Em 1954 um cara chamado Abraham Maslow publicou uma abstração poderosa, que define a hierarquia de necessidades que levam a motivação humana, a famosa “Pirâmide de Maslow”. É um pacote de abstrações que serve como guia na arquitetura motivacional do seu time.
+Para nossa sorte, nós - seres humanos - somos motivados por elementos comuns. Em 1954 um cara chamado Abraham Maslow publicou uma abstração poderosa, que define a hierarquia de necessidades que levam a motivação humana, a “Pirâmide de Maslow”. É um pacote de abstrações que serve como guia na arquitetura motivacional do seu time.
 
 O pré-requisito para a performance do seu time é ter pessoas motivadas.
 
