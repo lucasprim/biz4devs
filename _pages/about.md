@@ -5,8 +5,6 @@ permalink: sobre
 comments: false
 ---
 
-# Introdução a Biz4Devs
-
 ## Quem sou eu e por que diabos eu estou fazendo este blog?
 
 Olá, meu nome é Lucas Prim, e eu passei boa parte da minha vida sendo programador e empreendedor. Durante essa jornada, pude aprender muitas coisas, mas mais importante do que o que eu aprendi são todas as dificuldades que eu já passei e ainda passo tentando navegar pelo conhecimento de negócios.
@@ -41,7 +39,7 @@ Histórias para inspirar e bons exemplos de o que fazer em situações que todo 
 Aqui eu respondo perguntas de devs empreendedores.
 6. **/dev/null - Opiniões** -
 Não sou isento de opiniões, pelo contrário, então nesse espaço eu vou dar as minhas. O nome é sugestivo, `/dev/null` porque fica a sua escolha concordar ou simplesmente ignorar.
-7. **/metadata - Conceitos do biz4devs** - 
+7. **/metadata - Conceitos do biz4devs** -
 Artigos que explicam conceitos essenciais do próprio blog.
 
 ### Formato

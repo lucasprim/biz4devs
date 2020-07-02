@@ -64,11 +64,15 @@
           {% else %}
             <li class="nav-item">
           {% endif %}
-              <a class="nav-link" href="{{ site.baseurl }}">Blog</a>
+              <a class="nav-link" href="{{ site.baseurl }}/">Blog</a>
           </li>
 
           <li class="nav-item">
             <a class="nav-link" href="{{ site.baseurl }}/sobre">Sobre</a>
+          </li>
+
+          <li class="nav-item">
+            <a class="nav-link" href="{{ site.baseurl }}/categorias">Categorias</a>
           </li>
 
           {% include search-lunr.html %}
