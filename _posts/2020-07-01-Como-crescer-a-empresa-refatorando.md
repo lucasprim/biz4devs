@@ -3,7 +3,7 @@ layout: post
 title: Como fazer uma empresa crescer? Refatorando, claro!
 date: 2020-07-01 18:17:00 -0300
 author: prim
-categories: getting-started
+categories: docs
 permalink: como-fazer-uma-empresa-crescer-refatorando
 featured: false
 hidden: false

@@ -7,48 +7,61 @@ comments: false
 
 ## Quem sou eu e por que diabos eu estou fazendo este blog?
 
-Olá, meu nome é Lucas Prim, e eu passei boa parte da minha vida sendo programador e empreendedor. Durante essa jornada, pude aprender muitas coisas, mas mais importante do que o que eu aprendi são todas as dificuldades que eu já passei e ainda passo tentando navegar pelo conhecimento de negócios.
+Olá, meu nome é Lucas Prim. Passei boa parte da minha vida sendo programador e empreendedor.
+Encontrei dificuldades das mais variadas durante a última década tentando navegar pelo mar de *bullshit* que é o mundo
+dos negócios. Na minha carreira, tive que aprender a lidar com conceitos abstratos, difíceis de entender, ambíguos e
+muitas vezes simplesmente inúteis. É isso que eu quero fazer diferente por aqui.
 
-Na minha opinião, o mundo dos negócios e do empreendedorismo é cheio de *bullshit* e conceitos abstratos que são difíceis de entender, ambíguos e muitas vezes simplesmente não servem para nada.
-Como desde cedo comecei a programar, tive uma formação baseada em na notação formal das coisas, onde não existe espaço para ambiguidade nem metáfora: as coisas são o que são e se você não conseguiu entender a culpa não é do autor. Isso é totalmente diferente na linguagem utilizada para falar de negócios.
-Na literatura, nas entrevistas, nos podcasts e em tudo o que se pode consumir de conhecimento sobre o mundo dos negócios (gestão, liderança, ferramentas, o que for) existe um excesso de promessas uma falta de entregas. O livro da vez não entrega nada além de conceitos abstratos e vagabundos que, uma vez que você tenta colocar em prática, percebe que vai ter que contratar a consultoria do autor. Junte isso a um monte de empreendedores com um ego gigantesco dando lições sobre coisas que nunca fizeram e você tem um cenário caótico onde qualquer nerd que nem eu vai se sentir nada a vontade.
+Comecei a programar quando ainda era garoto. Estudando programação me acostumei com a notação formal dos conceitos,
+sem espaço para ambiguidade ou metáforas. Na matemática e na programação as coisas são o que são. Desde garoto também
+cultivei o sonho de empreender. Sem referências na família, fui buscar referências nos livros, entrevistas, podcasts,
+etc. Encontrei um mundo cheio de promessas mas tímidas entregas.
 
-Antes de falar o que eu quero com o Biz4Devs, eu preciso dizer que eu acredito que aprender deve ser divertido, entusiasmante. Sou fã do Tim Urban, do Wait But Why, e do Randall Munroe do XKCD, porque ambos conseguem não só trazer um ponto de vista único como também divertido. A diversão é a melhor maneira de tornar o aprendizado entusiasmante.
+Cansei de ler o *bestseller* de negócios do momento e tentar colocar os conceitos em prática só para descobrir que teria
+que contratar a consultoria do autor. Cansei de ouvir dezenas de empreendedores dando lições detalhadas sobre coisas que
+nunca fizeram. O que encontro no mundo da programação e nas comunidades *open source* não tem paralelo no mundo dos
+negócios. Será que dá para ser diferente?
 
-Eu abri minha primeira empresa em 2001, programando em PHP sites para negócios vizinhos junto com meu amigo Érico, que fazia os designs. Desde lá até aqui já passei por duas faculdades (engenharia civil - *drop-out* - e administração de empresas), centenas de projetos e tive duas empresas relevantes: o Kimitachi, um *sushi delivery* via *e-commerce* que nasceu em 2010 e foi vendido ao Grupo Trigo (Spoleto) em 2014, e a Zygo, um SAAS de CRM para empreendedores locais. Já fui pesquisador, programador, líder de equipe, product manager, gerente de marketing e CEO. Coloquei meu currículo aqui só para dizer que eu já bati muita cabeça e já fiz muitas cagadas ao longo da minha jornada.
+### Minha motivação
 
-O Biz4Devs é a minha forma de, depois de quase duas décadas fazendo cagadas e aprendendo como desenvolvedor e empreendedor, compartilhar conhecimento através de um ponto de vista único e divertido, ajudando a colocar ordem no mundo cheio de ruído que é o mundo dos negócios.
-Estou fazendo este blog principalmente para mim. Isso porque para escrever aqui, vou ter que aprender uma porção de coisas novas e aperfeiçoar a minha própria forma de organizar as ideias.
-Se no caminho para fazer isso eu conseguir ajudar meus leitores a também aprender e organizar as suas ideias, melhor ainda!
+Abri minha primeira empresa aos 14 anos, programando sites em PHP junto com um amigo designer. Cursei em duas
+universidades públicas, UFSC (Engenharia Civil - *drop-out* - 2006-2010) e UDESC (Administração de Empresas - 2008-2012).
+Construí dezenas de projetos como o [Professor Boiada](https://www.youtube.com/watch?v=rlm3yNK4svI) e fundei duas
+empresas relevantes: o Kimitachi, um *sushi delivery* via *e-commerce* que nasceu em 2010 e foi vendido ao Grupo Trigo
+(Spoleto) em 2014, e a Zygo, um SAAS de CRM para empreendedores locais.
 
-## Como vou organizar as coisas por aqui?
-Refatorar para mim é uma das atividades mais prazeirosas que um programador pode fazer. Dito isso, nada do que eu colocar aqui está escrito na pedra. A cada iteração, espero que o "código" fique cada vez melhor e mais claro.
+Na universidade e na vida profissional já fui pesquisador, programador, líder de equipe, product manager, gerente de
+marketing e CEO. Bati muita cabeça e já fiz mais que minha boa fração de cagadas. O Biz4Devs é a minha forma de
+compartilhar meu conhecimento e colocar um pouco de sanidade no mundo cheio de ruído que é o dos negócios.
 
-### Diferentes tipos de conteúdo
-Quero escrever aqui sobre diferentes tópicos que vão passar pela cabeça de qualquer desenvolvedor empreendedor. A melhor categorização que eu consegui achar até agora para esses tópicos é a seguinte:
+## Como organizo as coisas por aqui?
 
-1. **/GETTING STARTED.md - Conceitos essenciais** -
-Um espaço para falar sobre *business essentials*, conceitos essenciais de negócios.
-2. **/docs - Knowledge Base** -
-Análises de conceitos de gestão e liderança trazidos em livros, artigos, etc.
-3. **/lib (Ferramentas e Boas Práticas)** -
-Boas práticas de empreendedores e ferramentas que auxiliam na gestão de um negócio.
-4. **/examples (Histórias e exemplos de empreendedores e empresas)** -
-Histórias para inspirar e bons exemplos de o que fazer em situações que todo empreendedor se depara.
-5. **/faq - Perguntas Frequentes** -
-Aqui eu respondo perguntas de devs empreendedores.
-6. **/dev/null - Opiniões** -
-Não sou isento de opiniões, pelo contrário, então nesse espaço eu vou dar as minhas. O nome é sugestivo, `/dev/null` porque fica a sua escolha concordar ou simplesmente ignorar.
-7. **/metadata - Conceitos do biz4devs** -
-Artigos que explicam conceitos essenciais do próprio blog.
+### Meus princípios editoriais
 
-### Formato
-Vou sempre trazer uma abstração única, particular deste blog, para explicar os conceitos. Quero explicar conceitos de negócios como se estivesse explicando *softwares*.
+*Ainda são um work in progress*
 
-## É isso
+1. **Refatoração** - Tenho um extremo prazer em refatorar. Nada do que eu colocar aqui está escrito na pedra. A cada
+iteração, espero que o conteúdo fique cada vez mais claro e próximo da verdade.
+2. **Opinativo** - Não sou de ficar em cima do muro. Os artigos aqui vão refletir a minha opinião da época em que foram
+escritos. Minhas opiniões mudam conforme eu também mudo.
+3. **Um ponto por artigo** - William Zinsser dizia que o problema do escritor amador é querer criar o artigo definitivo
+sobre um determinado tópico, sem determinar seus limites. Esse pecado não vou cometer. Cada artigo aqui tem uma só ideia
+principal. Tópicos mais complexos são explorados em múltiplos artigos com uma página de índice.
+4. **Breve e leve** - Meu objetivo é escrever nenhuma palavra que não adicione valor ao texto. Valorizo o seu tempo
+como valorizo o meu.
+5. **Dentro da minha área de competência** - Não vou arriscar escrever sobre algo que eu não tenha no mínimo estudado a
+respeito.
+6. **Sem bullshit** - "Não existe nada tão inútil quanto fazer com eficiência aquilo que não deveria nem ser feito"
+(Peter Drucker). Não vou escrever só por escrever. Não vou colocar nada aqui que não tenha clareza.
 
-Escrevendo aqui estarei sem dúvida contribuindo para o meu desenvolvimento. Espero contribuir de alguma forma para o seu também!
+### Categorias
 
-Bem-vindo ao Biz4Devs.
-
-LP
+1. **docs** - Knowledge Base - Análises de conceitos de gestão e liderança trazidos em livros, artigos, etc.
+2. **lib** - Ferramentas e Boas Práticas - Boas práticas de empreendedores e ferramentas que auxiliam na gestão de um
+negócio.
+3. **examples** - Histórias e de empreendedores e gestores - Histórias para inspirar e bons exemplos de o que fazer em
+situações que todo empreendedor se depara.
+4. **faq** - Perguntas - Aqui eu respondo perguntas que recebo de devs e empreendedores.
+5. **dev/null** - Opiniões - Não sou isento de opiniões, pelo contrário, então nesse espaço eu vou dar as minhas. O nome
+é sugestivo, `dev/null` porque fica a sua escolha concordar ou simplesmente ignorar.
+6. **metadata** - Conceitos do biz4devs - Artigos que explicam conceitos essenciais do próprio blog.

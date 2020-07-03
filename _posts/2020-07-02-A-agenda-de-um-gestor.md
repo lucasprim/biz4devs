@@ -3,7 +3,7 @@ layout: post
 title: A agenda de um gestor
 date: 2020-07-02 19:32:00 -0300
 author: prim
-categories: getting-started
+categories: docs
 permalink: a-agenda-de-um-gestor
 featured: false
 hidden: false

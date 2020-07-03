@@ -3,7 +3,7 @@ layout: post
 title: "Fuja do dinheiro: A hora de dizer não para as oportunidades"
 date: 2020-06-23 19:18:00 -0300
 author: prim
-categories: /dev/null
+categories: dev/null
 permalink: fuja-do-dinheiro-a-hora-de-dizer-nao-para-as-oportunidades
 featured: true
 hidden: true
