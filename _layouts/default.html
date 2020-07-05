@@ -14,9 +14,11 @@
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
   <link href="{{ site.baseurl }}/assets/css/screen.css" rel="stylesheet">
   <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
+
   {% if page.layout == 'post' %}
-    <link rel="stylesheet" href="https://unpkg.com/applause-button/dist/applause-button.css" crossorigin="anonymous">
+    <link href="{{ site.baseurl }}/assets/css/clapper.css" rel="stylesheet">
   {% endif %}
+
   <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
 </head>
 
@@ -163,7 +165,7 @@
 
   {% if page.layout == 'post' %}
     <script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js"></script>
-    <script src="https://unpkg.com/applause-button/dist/applause-button.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/clapper.js"></script>
   {% endif %}
 </body>
 
