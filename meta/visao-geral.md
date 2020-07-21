@@ -39,3 +39,7 @@ No futuro trabalhos derivados, vinculados a marca podem ter fins lucrativos.
 | **Mantenedor** | Lucas Prim | Mantém o blog e os sistemas no ar, incluindo a parte técnica e de negócios |
 | **Editor** | Lucas Prim | Faz a interface com os autores e os auxilia na redação de artigos que estejam dentro dos princípios editoriais do b4d. |
 | **Autor** | Lucas Prim, Bruno Ghisi, Glauco Neves | Redigir conteúdo com periodicidade não inferior a uma vez a cada 60 dias. |
+
+## Outros Temas
+
+- O b4d é um projeto *open source*. Todo os planos e o código ficam disponíveis no [GitHub](https://www.github.com/lucasprim/biz4devs)

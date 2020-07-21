@@ -7,5 +7,5 @@
 ## Definição e Planos
 
 1. [Visão Geral do Projeto](visao-geral.md)
-2. [Planos para 2020-2021](planos.md)
+2. [Planos de 2020](planos.md)
 3. [Guia do Autor](autor.md)

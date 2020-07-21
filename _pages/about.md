@@ -5,8 +5,6 @@ permalink: sobre
 comments: false
 ---
 
-## Quem sou eu e por que diabos eu estou fazendo este blog?
-
 Olá, meu nome é Lucas Prim. Passei boa parte da minha vida sendo programador e empreendedor.
 Encontrei dificuldades das mais variadas durante a última década tentando navegar pelo mar de *bullshit* que é o mundo
 dos negócios. Na minha carreira, tive que aprender a lidar com conceitos abstratos, difíceis de entender, ambíguos e
@@ -36,7 +34,7 @@ compartilhar meu conhecimento e colocar um pouco de sanidade no mundo cheio de r
 
 ## Como organizo as coisas por aqui?
 
-### Meus princípios editoriais
+### Nossos princípios editoriais
 
 *Ainda são um work in progress*
 
