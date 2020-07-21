@@ -1,4 +1,4 @@
-# Autores - Cadência de Postagem
+# Autores e Cadência de Postagem
 
 | Autor | Cadência |
 | ----- | -------- |

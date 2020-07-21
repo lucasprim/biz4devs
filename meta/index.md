@@ -9,3 +9,4 @@
 1. [Visão Geral do Projeto](visao-geral.md)
 2. [Planos de 2020](planos.md)
 3. [Guia do Autor](autor.md)
+4. [Cadência de Postagem de cada Autor](cadencia_de_postagem.md)
