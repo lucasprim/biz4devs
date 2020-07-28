@@ -56,7 +56,7 @@ Você pode pedir para sair do B4D a qualquer momento.
 
 ## Faça seu *setup* e o mantenha atualizado
 
-Ao se tornar autor do B4D, você deve editar o arquivo `config.yml` deste repositório para adicionar suas informações. Isso vai fazer com que você passe a aparecer na página de autores e vai criar um *shortname* para você colocar no *front matter* dos seus posts.
+Ao se tornar autor do B4D, você deve adicionar um arquivo na pasta `_authors` deste repositório para adicionar suas informações, seguindo o padrão que está lá. Isso vai fazer com que você passe a aparecer na página de autores.
 
 ## Como postar seu conteúdo
 

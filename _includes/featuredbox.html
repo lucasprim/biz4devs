@@ -1,5 +1,6 @@
 <!-- begin post -->
-{% assign author = site.authors[post.author] %}
+{% assign authors = site.authors | where: "short_name", post.author %}
+{% assign author = authors[0] %}
 <div class="col-md-6 mb-30px">
   <div class="listfeaturedtag h-100">
     <div class="row h-100">

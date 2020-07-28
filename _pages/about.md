@@ -17,16 +17,16 @@ Se você é um dev que tem experiência (T >= 3 anos) com gestão ou empreendedo
 ### Autores
 
 <ul>
-  {% for contributor in site.contributors %}
+  {% for author in site.authors %}
     <li>
-      <a href="{{ contributor.url }}">
-        {{ contributor.name }}
+      <a href="{{ author.url }}">
+        {{ author.name }}
       </a>
       <span>
         -
-        <strong>{{ contributor.position}}</strong>
+        <strong>{{ author.position}}</strong>
       </span>
-      <span> - {{ contributor.short_description | strip_newlines }}</span>
+      <span> - {{ author.short_description | strip_newlines }}</span>
     </li>
   {% endfor %}
 </ul>

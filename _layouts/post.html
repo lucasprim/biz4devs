@@ -5,6 +5,9 @@ archive: false
 post_class: post-template
 ---
 
+{% assign authors = site.authors | where: "short_name", post.author %}
+{% assign author = authors[0] %}
+
 <div class="container">
   <div class="row">
 
@@ -12,7 +15,6 @@ post_class: post-template
       {% include share.html %}
     </div>
 
-    {% assign author = site.authors[page.author] %}
     <div class="col-md-9 flex-first flex-md-unordered">
       <div class="mainheading">
         <!-- Author Box -->
@@ -26,8 +28,8 @@ post_class: post-template
               {% endif %}
             </div>
             <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
-              <a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a><a target="_blank" href="{{ author.twitter }}" class="btn follow">Seguir</a>
-              <span class="author-description">{{ author.description }}</span>
+              <a class="link-dark" href="{{ author.url }}">{{ author.display_name }}</a><a target="_blank" href="{{ author.twitter }}" class="btn follow">Seguir</a>
+              <span class="author-description">{{ author.short_description }}</span>
             </div>
           </div>
         {% endif %}
