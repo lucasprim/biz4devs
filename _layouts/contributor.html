@@ -1,0 +1,31 @@
+---
+layout: default
+jumbotron: false
+---
+
+<section>
+  <div class="section-title">
+    <h2>
+      <span>
+        {{ page.display_name }}
+        ({{ page.position }})
+      </span>
+    </h2>
+  </div>
+
+  <div class="article-post">
+    <h5>
+      {{ page.short_description }}
+    </h5>
+    {{content}}
+  </div>
+
+
+  <h2>Posts Recentes</h2>
+  <div class="row listrecent">
+    {% assign filtered_posts = site.posts | where: 'author', page.short_name %}
+    {% for post in filtered_posts limit: 6 %}
+      {% include postbox.html %}
+    {% endfor %}
+  </div>
+</section>

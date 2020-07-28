@@ -18,6 +18,10 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
 
+collections:
+  contributors:
+    output: true
+
 authors:
   prim:
     name: Lucas Prim
@@ -26,6 +30,7 @@ authors:
     email: biz4devs@gmail.com
     web: https://www.biz4devs.com
     twitter: https://www.twitter.com/lucasprim
+    about_page: /prim
     description: >-
       Editor do Biz4Devs.
       Desenvolvedor de software de coração, gestor de profissão.
@@ -61,6 +66,23 @@ permalink: /:title/
 logo: 'assets/images/b4d-expanded-rectangle-white.png'
 favicon: 'assets/images/favicon.ico'
 google_analytics: 'UA-169343340-1'
+
+# Front Matter Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "contributors"
+    values:
+      layout: "contributor"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope: 
+      path: ""
+    values:
+      layout: "default"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
