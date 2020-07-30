@@ -34,10 +34,8 @@ Se você é um dev que tem experiência (T >= 3 anos) com gestão ou empreendedo
 ### Categorias
 
 1. **docs** - Knowledge Base - Análises de conceitos de gestão e liderança trazidos em livros, artigos, etc.
-2. **lib** - Ferramentas e Boas Práticas - Boas práticas de empreendedores e ferramentas que auxiliam na gestão de um
-negócio.
-3. **examples** - Histórias e de empreendedores e gestores - Histórias para inspirar e bons exemplos de o que fazer em
-situações que todo empreendedor se depara.
+2. **lib** - Ferramentas e Boas Práticas - Boas práticas de empreendedores e ferramentas que auxiliam na gestão de um negócio.
+3. **examples** - Histórias e de empreendedores e gestores - Histórias para inspirar e bons exemplos de o que fazer em situações que todo empreendedor se depara.
 4. **faq** - Perguntas - Aqui eu respondo perguntas que recebo de devs e empreendedores.
 5. **dev/null** - Opiniões - Não sou isento de opiniões, pelo contrário, então nesse espaço eu vou dar as minhas. O nome
 é sugestivo, `dev/null` porque fica a sua escolha concordar ou simplesmente ignorar.
