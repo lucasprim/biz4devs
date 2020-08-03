@@ -5,7 +5,7 @@ date: 2020-07-05 17:28:00 -0300
 author: prim
 categories: docs
 permalink: business-ou-buzziness-o-ruido-ensurdecedor-da-terra-dos-unicornios
-featured: true
+featured: false
 hidden: true
 comments: true
 description: "Para tornar a sua empresa um unicórnio você precisa resistir a diversas tentações e ruídos que vão querer te tirar de perto do que mais importa: deixar seus clientes felizes."
