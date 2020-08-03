@@ -71,7 +71,7 @@ Existe uma coisa muito pior do que não planejar ou não refletir, que é parar 
 Além disso, é importante ressaltar que você como empreendedor precisa também cuidar de sí mesmo. Se alimentar bem, se hidratar, fazer exercícios, ter tempo para se divertir, relaxar com a família e com os amigos é tão importante quanto se dedicar ao trabalho. Não somos robôs, somos humanos. Quanto antes você aceitar e abraçar isso, melhor.
 
 > #### Lição VI: Respeite o tempo.
-> Existe tempo para se inspirar, tempo para planejar e tempo para executar. Pular qualquer etapa é desperdiçar seu recurso mais precioso que é seu tempo na terra.
+> Existe tempo para se inspirar, tempo para planejar e tempo para executar. Pular qualquer etapa é desperdiçar seu recurso mais precioso.
 > Além do seu tempo de trabalho, é crucial que você tenha tempo para você. Isso vai garantir que a sua capacidade no trabalho esteja sempre no ápice.
 
 Já que você chegou até aqui, vou oferecer mais uma lição extra.   Durante a última década tentei diversas vezes usar "Copy/Paste" das lições e modelos de outros empreendedores. A maioria das vezes deu errado. Empreendedores - como eu - acham que tem lições a ensinar. Mas ninguém tem como afirmar se as coisas funcionaram por causa de princípios ou por sorte. Pense por conta própria e avalie se o que você aprende com outros empreendedores se aplica ou não para você. É tão válido na bolsa quanto na vida: "Performance passada não é garantia de resultado futuro". Use conselhos com moderação. Inclusive estes!
