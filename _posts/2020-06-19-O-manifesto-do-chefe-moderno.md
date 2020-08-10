@@ -5,7 +5,7 @@ date: 2020-06-19 15:22:00 -0300
 author: prim
 categories: docs
 permalink: o-manifesto-do-chefe-moderno
-featured: true
+featured: false
 image: assets/images/covers/coach.jpg
 hidden: true
 comments: true
