@@ -5,8 +5,8 @@ date: 2020-07-20 14:04:00 -0300
 author: prim
 categories: docs
 permalink: a-estrategia-de-produto
-featured: true
-hidden: true
+featured: false
+hidden: false
 comments: true
 description: "Na hora de definir o roadmap de produto da sua empresa o que não faltam são ideias de funcionalidades. Mas qual delas você deve priorizar? A resposta para construir seu Roadmap está na Estratégia de Produto."
 image: assets/images/covers/chess-pawn-wins.jpg
