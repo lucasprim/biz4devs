@@ -5,8 +5,8 @@ date: 2020-08-10 11:26:00 -0300
 author: prim
 categories: lib
 permalink: league-of-legends-para-escalar-sua-startup
-featured: true
-hidden: true
+featured: false
+hidden: false
 comments: true
 description: "Se você quer chegar em algum lugar como empreendedor, é essencial saber respeitar as etapas de desenvolvimento da sua startup. Aos que já esqueceram ou que nunca jogaram League of Legends, este post oferece uma boa noção de como navegar por cada etapa da jornada entre startup e scale up"
 image: assets/images/covers/gamers-on-a-dark-room.jpg
