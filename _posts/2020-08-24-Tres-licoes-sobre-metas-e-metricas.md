@@ -18,11 +18,11 @@ Existe muita confusão sobre métricas e metas, que certamente não vem da falta
 
 Explodir a estrela da morte não é uma boa meta, mas pode ser um bom objetivo. A explosão foi o resultado de treinamento, planejamento, trabalho em equipe, ações de espionagem e sabotagem. É nessas atividades que a mágica acontece. 
 
-Metas são ferramentas fantásticas para alinhar a execução e medir o progresso em direção a um objetivo. Mas só colar elas na parede - ou naquele *dashboard* bacana - não faz chover. Separei três conceitos indispensáveis que todo empreendedor deve saber na hora de definir as métricas que deve acompanhar e as metas que deve construir com seu time.
+Metas são ferramentas fantásticas para alinhar a execução e medir o progresso em direção a um objetivo. Mas só colar elas na parede - ou naquele *dashboard* bacana - não faz chover. Separei três conceitos indispensáveis que todo empreendedor deve saber na hora de definir as métricas que vai acompanhar e as metas que vai definir com seu time.
 
 ## 1. Lead Metrics e Lag Metrics
 
-Já presenciei o momento de nascimento de uma meta do tipo "fechar duas grandes contas de R$ 100.000 cada no trimestre". Ao definir essa meta, o empreendedor sonhou com um amanhã melhor ao mesmo tempo em que tornou o mesmo amanhã miserável. O motivo é simples. Fechar essas duas grandes contas não depende só de você. Do outro lado das grandes contas estão outras empresas e outros executivos, cada um com suas metas e agendas. Pode até ser que, por um alinhamento dos astros, você feche as contas. Mas não dá para contar com isso.
+Já presenciei o momento de nascimento de uma meta do tipo "fechar duas grandes contas de R$ 100.000 cada no trimestre". Ao definir essa meta, o empreendedor sonhou com um amanhã melhor ao mesmo tempo em que tornou o mesmo amanhã miserável. O motivo é simples. Fechar essas duas grandes contas não depende só dele. Do outro lado das grandes contas estão outras empresas e outros executivos, cada um com suas metas e agendas. Pode até ser que, por um alinhamento dos astros, ele feche as contas. Mas não dá para contar com isso.
 
 Fechar contas é uma *lag metric*. Ela expressa um resultado obtido. E focar no resultado é a melhor maneira de aumentar as chances de não alcançá-lo. Para aumentar essas chances, você deve olhar para o *como* seu time vai chegar ao resultado esperado.
 
