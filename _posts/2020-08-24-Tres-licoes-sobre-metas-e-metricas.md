@@ -38,9 +38,9 @@ A melhor propriedade das *lead metrics* é que elas permitem alinhar execução 
 
 É possível "alcançar o fracasso". Não estou falando de tentativa e erro, algo essencial para qualquer inovação. Mas de bater todas as metas de um plano ruim. As metas guiam com força a execução. Para o bem ou para o mal.
 
-Como Peter Drucker já disse, "Não existe nada tão inútil quanto fazer com eficiência algo que não deveria ser feito". Imagine uma *startup* que ainda não tem um produto bem resolvido, com *churn* alto. Se ela tiver metas de vendas aceleradas e ousadas, mesmo batendo as metas a empresa vai terminar o trimestre pior do que começou. E coom dois problemas para resolver: manter os vendedores motivados e tratar o *churn* dos novos clientes.
+Como Peter Drucker já disse, "Não existe nada tão inútil quanto fazer com eficiência algo que não deveria ser feito". Imagine uma *startup* que ainda não tem um produto bem resolvido, com *churn* alto. Se ela tiver metas de vendas aceleradas e ousadas, mesmo batendo todas elas, a empresa vai terminar o trimestre pior do que começou. E com dois problemas para resolver: manter os vendedores motivados e tratar o *churn* dos novos clientes.
 
-Uma maneira de evitar isso é pensando na empresa como um sistema e não como um conjunto de departamentos isolados. As metas devem buscar a melhoria do sistema como um todo e não de uma parte. É crucial usar métodos como o [*Innovation Accounting*](https://www.inc.com/eric-ries/entrepreneur-eric-ries-innovation-accounting-secret-to-fast-growth.html){:target="_blank"} do Eric Ries para criar metas que façam sentido. Alcançar o fracasso é a pior forma de desperdício.
+Uma maneira de evitar isso é pensando na empresa como um sistema e não como um conjunto de departamentos isolados. As metas devem buscar a melhoria do sistema como um todo e não só de uma parte dele. É crucial usar métodos como o [*Innovation Accounting*](https://www.inc.com/eric-ries/entrepreneur-eric-ries-innovation-accounting-secret-to-fast-growth.html){:target="_blank"} do Eric Ries para criar metas que façam sentido. Alcançar o fracasso é a pior forma de desperdício.
 
 ## 3. O perigo das métricas de vaidade
 
@@ -48,7 +48,7 @@ Uma empresa pode estar crescendo aceleradamente e ser um péssimo negócio. Isso
 
 ![hockey chart](/assets/images/posts/metrics-hockey-stick.png)
 
-Você gostaria de ser o CEO dessa empresa, certo? A princípio eu também diria que sim. Só que embora esse gráfico tenha uma curva venerada no mundo do empreendedorismo, ele isoladamente não diz nada sobre o verdadeiro motor de geração de valor da empresa. O Groupon, que virou pó, apresentou exatamente essa curva no seu IPO. Olhe agora para esse outro gráfico, da mesma empresa, no mesmo período:
+Você gostaria de ser o CEO dessa empresa, certo? A princípio eu também diria que sim. Só que embora esse gráfico tenha uma curva venerada no mundo do empreendedorismo, isoladamente ele não diz nada sobre o verdadeiro motor de geração de valor da empresa. O Groupon, que virou pó, apresentou exatamente essa curva no seu IPO. Olhe agora para esse outro gráfico, da mesma empresa, no mesmo período:
 
 ![cohort chart](/assets/images/posts/metrics-engagement-per-cohort.png)
 
