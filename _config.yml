@@ -38,7 +38,7 @@ jekyll-archives:
   permalinks:
     category: '/categoria/:name/'
 
-paginate: 6
+paginate: 15
 paginate_path: /page:num/
 
 # Theme Settings

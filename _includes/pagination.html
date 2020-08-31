@@ -3,7 +3,7 @@
   {% if paginator.previous_page %}
     <a class="ml-1 mr-1" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Anterior</a>
   {% else %}
-    <span>&laquo; Prev</span>
+    <span>&laquo; Anterior</span>
   {% endif %}
 
   {% for page in (1..paginator.total_pages) %}
@@ -19,7 +19,7 @@
   {% if paginator.next_page %}
     <a class="ml-1 mr-1" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Próxima &raquo;</a>
   {% else %}
-    <span>Next &raquo;</span>
+    <span>Próxima &raquo;</span>
   {% endif %}
 </div>
 {% endif %}

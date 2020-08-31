@@ -5,8 +5,8 @@ date: 2020-06-23 19:18:00 -0300
 author: prim
 categories: dev/null
 permalink: fuja-do-dinheiro-a-hora-de-dizer-nao-para-as-oportunidades
-featured: true
-hidden: true
+featured: false
+hidden: false
 comments: true
 description: Na vida de uma startup, muitas oportunidades são lobos em pele de cordeiro e vão te custar a alma da sua empresa. Para chegar longe é preciso saber dizer não para certas oportunidades.
 image: assets/images/covers/do-not-enter.jpg
